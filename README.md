@@ -1,7 +1,7 @@
 # Sith-Empire
 ![Sith Empire Logo 256](https://user-images.githubusercontent.com/60283532/153864175-01191ad5-5b3f-491a-86e9-2311b2a56287.png)
 
-An Icon theme for Gnome/XFCE and Budgie.
+A theme suite for Gnome, XFCE and Budgie DE.
 
 Video
 --
