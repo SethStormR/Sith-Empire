@@ -6,6 +6,7 @@ A theme suite for Gnome, XFCE and Budgie DE.
 Goodis
 --
 Wallpaper: https://www.wallpaperbetter.com/en/hd-wallpaper-uikhc
+
 Font: https://www.dafont.com/nasalization.font
 
 Video
